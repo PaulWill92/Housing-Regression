@@ -2,6 +2,8 @@ To do:
 
 Monday 23 march 2020
 
+[ ] Create conda environment and environment file with all the imports i will use
+
 [ ] create template notebooks organized how listed in project approach file
 
 [ ] start working on data cleaning notebook and document what I want to do with missing values and outliers

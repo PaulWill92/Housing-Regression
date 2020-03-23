@@ -1,0 +1,8 @@
+How I intend to approach this project:
+
+1. make a data cleaning notebook clean outliers and have the dataset null values filled.
+
+2. Do some EDA in another note book and produce a few seperate dataframes with some visualizations
+
+3. Have my final regression notebook with the cleaned data and features i want to use to run my model.
+

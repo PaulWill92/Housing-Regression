@@ -4,11 +4,11 @@ Monday 23 march 2020
 
 [ ] Create conda environment and environment file with all the imports i will use
 
-[ ] create template notebooks organized how listed in project approach file
+[X] create template notebooks organized how listed in project approach file
 
-[ ] start working on data cleaning notebook and document what I want to do with missing values and outliers
+[X] start working on data cleaning notebook and document what I want to do with missing values and outliers
 
-[ ] Clean the main data frame nicely with the exact features i want to use
+[X] Clean the main data frame nicely with the exact features i want to use
 
 Tuesday, 24 March 2020
 

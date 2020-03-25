@@ -12,7 +12,7 @@ Monday 23 march 2020
 
 Tuesday, 24 March 2020
 
-[ ] Start EDA in the EDA notebook and come up with some questions to ask (3 of them)
+[X] Start EDA in the EDA notebook and come up with some questions to ask (3 of them)
 
 [ ] Create visualizations from the EDA.
 

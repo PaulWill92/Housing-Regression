@@ -10,4 +10,5 @@ some visualizations took advantage of pandas, matplotlib, seaborn for my
 exploratory data analysis
 
 3. Have my final regression notebook with the cleaned data and features i want to use to run my model.
-
+Linear regression model can be improved using some more features and doing some
+feature engineering.

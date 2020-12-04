@@ -11,4 +11,5 @@ exploratory data analysis
 
 3. Have my final regression notebook with the cleaned data and features i want to use to run my model.
 Linear regression model can be improved using some more features and doing some
-feature engineering.
+feature engineering. Taking advantage of feature extraction and creating more
+features using conditionals and pandas might be a good idea.

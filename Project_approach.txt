@@ -1,6 +1,9 @@
 How I intend to approach this project:
 
-1. make a data cleaning notebook clean outliers and have the dataset null values filled.
+1. make a data cleaning notebook clean outliers and have the dataset null
+values filled. - I dropped outliers 4 standard deviations from the mean. I
+handled a few extreme values by taking the average of houses that match the
+dimension's of the extremes.
 
 2. Do some EDA in another note book and produce a few seperate dataframes with some visualizations
 
